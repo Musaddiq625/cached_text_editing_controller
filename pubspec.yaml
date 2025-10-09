@@ -1,6 +1,6 @@
 name: cached_text_editing_controller
 description: "A Flutter package providing a TextEditingController with efficient text modification tracking and comparison capabilities."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/Musaddiq625
 repository: https://github.com/Musaddiq625/cached_text_editing_controller
 issue_tracker: https://github.com/Musaddiq625/cached_text_editing_controller/issues
