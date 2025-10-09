@@ -23,6 +23,9 @@ dependencies:
   cached_text_editing_controller: <latest_version>
 ```
 
+## Demo
+![Demo animation](doc/demo.gif)
+
 ## Usage
 
 ### As a Direct Replacement
